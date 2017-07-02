@@ -1,7 +1,7 @@
-## Admiration Note
+# Admiration Note
 
-# Project Description
+### Project Description
 
-# Steps to Complete
+### Steps to Complete
 
-# Tasks and Contributors
+### Tasks and Contributors
