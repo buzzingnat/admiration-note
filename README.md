@@ -20,14 +20,14 @@
    * ect...
 4. Psuedocode
    1. Menu logic
-   2. Find game
+   2. Find/Create game
    3. Game connection (web sockets?)
    4. Game loop
    5. Turn logic
    6. Win/lose logic
 5. Coding :D
-   Turn the psuedocode into real code.
+   * Turn the psuedocode into real code.
 6. Testing
-   Just run tests and looks for bugs like you would with any game.
+   * Just run tests and looks for bugs like you would with any game.
 
 ### Tasks and Contributors
