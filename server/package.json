@@ -1,0 +1,25 @@
+{
+  "name": "admiration-note",
+  "version": "1.0.0",
+  "description": "A Love Letter inspired multiplayer card game built with Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzingnat/admiration-note.git"
+  },
+  "keywords": [
+    "love",
+    "letter",
+    "card",
+    "game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buzzingnat/admiration-note/issues"
+  },
+  "homepage": "https://github.com/buzzingnat/admiration-note#readme"
+}
