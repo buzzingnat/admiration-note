@@ -1,0 +1,15 @@
+.caption .player-name {
+	border-right: solid thin #aaa;
+}
+
+.discard-cards .card {
+    position: relative;
+    display: inline;
+    margin-right: -35%;
+}
+
+.hand-cards .card {
+    position: relative;
+    display: inline;
+    margin: 0 -10px;
+}
